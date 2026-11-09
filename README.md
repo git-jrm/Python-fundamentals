@@ -1,4 +1,4 @@
-# PyLearningHub
+# Python fundamentals
 
 Bienvenid@ a `PyLearningHub` nuestro programa inteligente para aprender Python en sólo 6 lecciones, desde fundamentos hasta técnicas avanzadas.
 
