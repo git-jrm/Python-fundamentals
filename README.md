@@ -4,9 +4,9 @@ Bienvenid@ a `PyLearningHub` nuestro programa inteligente para aprender Python e
 
 Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir escribiendo y ejecutando. Requerimientos técnicos: tener instalado Python 3.12+ y algún IDE como VS Code. Alternativamente, si no puede instalar use Google Colab `colab.research.google.com`.
 
-Los contenidos se han organizado cuidadosamente para ofrecer una experiencia secuencial y un aprendizaje progresivo. ¡Empecemos!
+El contenido está cuidadosamente organizado para ofrecer una experiencia de aprendizaje secuencial y progresiva.
 
-> Portafolio de Ingeniería de Datos con código Python: [Módulo 2](https://github.com/git-jrm/ing-datos-M2), [Módulo 3](https://github.com/git-jrm/ing-datos-M3)
+> ¡Empecemos!
 
 ## Lecciones:
 - [Lección N° 1 : Sentencias Básicas](#lecci%C3%B3n-n-1--sentencias-b%C3%A1sicas)
